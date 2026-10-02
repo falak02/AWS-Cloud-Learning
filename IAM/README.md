@@ -23,7 +23,7 @@ Created an IAM user named:
 
 Configured console access and tested login using a separate browser.
 
-Screenshot:** `IAM-User-Creation.png`  
+Screenshot: `IAM-User-Creation.png`  
 Screenshot: `IAM-User-Login.png`  
 Screenshot: `IAM-User-Logged-In.png`
 
